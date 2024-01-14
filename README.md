@@ -8,5 +8,5 @@
   - HTTPS://GITHUB.COM/MABOROSHIN/ABSINTHE.COLOR
     - Modify font-related to all theme: (by F9y4ng, License:MIT)
     - Optimize the rendering effect of Chinese fonts
-    - Provide [XHei_Intel-Mono](tree/master/FONT) font package
+    - Provide [XHei_Intel-Mono](https://github.com/F9y4ng/Notepad3-Themes/tree/master/FONT) font package
     - https://github.com/F9y4ng/Notepad3-Themes/
