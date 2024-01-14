@@ -7,5 +7,6 @@
   - Apply Color theme to above: Absinthe (by MABOROSHIN, License:MIT)
   - HTTPS://GITHUB.COM/MABOROSHIN/ABSINTHE.COLOR
     - Modify font-related to all theme: (by F9y4ng, License:MIT)
+    - Optimize the rendering effect of Chinese fonts
     - Provide [XHei_Intel-Mono](#) font package
     - https://github.com/F9y4ng/Notepad3-Themes/
